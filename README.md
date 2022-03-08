@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72218345/157238025-a20cbc44-0410-4fe8-91d7-29b7713ae97f.jpg"/>
+  <img src="https://user-images.githubusercontent.com/72218345/157239113-ec7fd06f-1637-4fd6-bb0d-0eaf13e72240.png"/>
 </p>
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammed Jawhar</h1>

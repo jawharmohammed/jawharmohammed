@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mohammedjawhar365@gmail.com**
 
-- 📄 Here is my resume [Here](https://drive.google.com/file/d/1A2fWmTbFzq3K_Wnk0EtTDYb6_S-6Dfy3/view?usp=sharing)
+- 📄 Here is my resume [Mohammed Jawhar](https://drive.google.com/file/d/1A2fWmTbFzq3K_Wnk0EtTDYb6_S-6Dfy3/view?usp=sharing)
 
 - ⚡ Fun fact **I like photography,anime & japanese culture 🐉**
 

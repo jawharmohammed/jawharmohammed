@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adasci.org%2F&psig=AOvVaw3Xjc6Jgp1eP2l_iukNrbzr&ust=1646822392598000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJj84s-ptvYCFQAAAAAdAAAAABAM" />
+  <img src="![who-we-are](https://user-images.githubusercontent.com/72218345/157221894-7f1ff112-e7dd-48fa-b348-c6cf95b89043.png)"/>
 </p>
 
 

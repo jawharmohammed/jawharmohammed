@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="![who-we-are](https://user-images.githubusercontent.com/72218345/157221894-7f1ff112-e7dd-48fa-b348-c6cf95b89043.png)"/>
+  <img src="https://user-images.githubusercontent.com/72218345/157221894-7f1ff112-e7dd-48fa-b348-c6cf95b89043.png"/>
 </p>
-
-![who-we-are](https://user-images.githubusercontent.com/72218345/157223132-ffe9d50b-fbc7-4b9f-8aed-f14bd9c0711b.png)
-
-
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammed Jawhar</h1>
 <h3 align="center">A passionate Data Scientist, Data Engineer student!</h3>

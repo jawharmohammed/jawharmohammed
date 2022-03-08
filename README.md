@@ -28,6 +28,9 @@
 <p align="center">
     <a href="https://linkedin.com/in/mohammed-jawhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Jawhar" height="30" width="40" /></a>
     <a href="https://www.kaggle.com/mohammedjawhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Mohammed Jawhar" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/18408795/mohammed-jawhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Mohammed Jawhar" height="30" width="40" /></a>
+  <a href="https://medium.com/@mohammedjawhar365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Mohammed Jawhar" height="30" width="40" /></a>
+  <a href="https://twitter.com/MohammedJawhar4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohammed Jawhar" height="30" width="40" /></a>
     <a href="https://www.facebook.com/mohammed.jawhar.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Maohammed Jawhar" height="30" width="40" /></a>
     <a href="https://www.instagram.com/mohammed._.jawhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohammed Jawhar" height="30" width="40" /></a>
 </p>

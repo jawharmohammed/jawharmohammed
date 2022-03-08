@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm LABRIJI SAAD</h1>
 <h3 align="center">A passionate Data Scientist, Data Engineer student!</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=labrijisaad&label=Profile%20views&color=0e75b6&style=flat" alt="labrijisaad" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=javo2&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed Jawhar" /> </p>
 
 
 
@@ -27,10 +27,10 @@
 ## 🙌 `Connect with me` :
 
 <p align="center">
-    <a href="https://linkedin.com/in/mohammed-jawhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="labrijisaad" height="30" width="40" /></a>
-    <a href="https://www.kaggle.com/mohammedjawhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saadlabriji" height="30" width="40" /></a>
-    <a href="https://fb.com/saad.labriji.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saad.labriji.0" height="30" width="40" /></a>
-    <a href="https://instagram.com/saad.labri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saad.labri" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/mohammed-jawhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Jawhar" height="30" width="40" /></a>
+    <a href="https://www.kaggle.com/mohammedjawhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Mohammed Jawhar" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/mohammed.jawhar.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Maohammed Jawhar" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/mohammed._.jawhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohammed Jawhar" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ `Languages and Tools` :
@@ -131,7 +131,7 @@
 <br/>
 
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/labrijisaad/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-jawhar/)
 
 
 

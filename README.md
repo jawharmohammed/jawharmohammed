@@ -11,7 +11,7 @@
 
 ## 😎 `About me` :
 
-- 🔭 I’m currently working on **Examining Discrimination in Online Ridesharing Platforms **
+- 🔭 I’m currently working on **Examining Discrimination in Online Ridesharing Platforms**
 
 - 🌱 I’m currently learning **Deep Learning, Machine learning & NLP**
 

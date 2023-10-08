@@ -3,7 +3,7 @@
 </p>
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammed Jawhar</h1>
-<h3 align="center">A passionate Data Scientist, Data Engineer student!</h3>
+<h3 align="center">A passionate Data Science student</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javo2&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed Jawhar" /> </p>
 
 
@@ -11,7 +11,7 @@
 
 ## 😎 `About me` :
 
-- 🔭 I’m currently searching for a **Data Science internship**
+- 🔭 I’m currently looking for a **Data Science internship**
 
 - 🌱 I’m currently learning **Deep Learning & NLP**
 

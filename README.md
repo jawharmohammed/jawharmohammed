@@ -11,15 +11,15 @@
 
 ## 😎 `About me` :
 
-- 🔭 I’m currently working on **Examining Discrimination in Online Ridesharing Platforms**
+- 🔭 I’m currently searching for a **Data Science internship**
 
-- 🌱 I’m currently learning **Deep Learning, Machine learning & NLP**
+- 🌱 I’m currently learning **Deep Learning & NLP**
 
 - 👨‍💻 All of my projects are available at -> **working on** 👊<-
 
 - 📫 How to reach me **mohammedjawhar365@gmail.com**
 
-- 📄 Here is my resume [Mohammed Jawhar](https://drive.google.com/file/d/1G82NTwfAQWGZ1_jh3ulzXiizWxPl06KY/view?usp=sharing)
+- 📄 Here is my resume [Mohammed Jawhar](https://drive.google.com/file/d/1lQkTlFLeoQjWisNwFwa_9RQGoUcUWgVc/view?usp=sharing)
 
 - ⚡ Fun fact **I like photography,anime & japanese culture 🐉**
 
